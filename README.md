@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md1525
 - 👀 I’m interested in ... software developer
-- 🌱 I’m currently learning in...3rd year cse B.tech
+- 🌱 I’m currently learning in...4rd year cse B.tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
